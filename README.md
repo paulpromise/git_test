@@ -1,2 +1,2 @@
 # git_test
-odin project git basic repo
+my first odin project git basic repo!
